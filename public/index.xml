@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bonan Yan</title>
+    <link>http://bonanyan.github.io/bn/</link>
+    <description>Recent content on Bonan Yan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://bonanyan.github.io/bn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>http://bonanyan.github.io/bn/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bonanyan.github.io/bn/pages/about/</guid>
+      <description>dfadf hahaha nlkdafndslfnd
+afdfdf</description>
+    </item>
+    
+  </channel>
+</rss>
