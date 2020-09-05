@@ -20,28 +20,28 @@ params:
   navbarlogo:
   # Logo (from static/images/logos/___)
     image: logos/fresh.svg
-    link: /
+    link: /bn
   font:
-    name: "Noto Sans"
-    sizes: [400,700]
+    name: "Open Sans"
+    sizes: [400,600]
   hero:
     # Main hero title
     title: We Rethink Computing
     # Hero subtitle (optional)
-    subtitle: We do research with Mens et Manus
+    subtitle: '"My heart is in the work."'
     # Button text
-    buttontext: See Around
+    buttontext: Know More
     # Where the main hero button links to
-    buttonlink: "mailto:bonan.yan@outlook.com"
+    buttonlink: /bn/research
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
-    clientlogos:
-    - systek
-    - tribe
-    - kromo
-    - infinite
-    - gutwork
+    # clientlogos:
+    # - systek
+    # - tribe
+    # - kromo
+    # - infinite
+    # - gutwork
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Research
