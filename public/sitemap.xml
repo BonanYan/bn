@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://bonanyan.github.io/bn/pages/about/</loc>
+    <loc>http://bonanyan.github.io/bn/about/</loc>
   </url>
   
   <url>
@@ -11,7 +11,23 @@
   </url>
   
   <url>
-    <loc>http://bonanyan.github.io/bn/pages/</loc>
+    <loc>http://bonanyan.github.io/bn/people/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bonanyan.github.io/bn/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bonanyan.github.io/bn/research/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bonanyan.github.io/bn/resources/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bonanyan.github.io/bn/teaching/</loc>
   </url>
   
 </urlset>
