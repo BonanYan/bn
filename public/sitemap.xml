@@ -19,6 +19,10 @@
   </url>
   
   <url>
+    <loc>http://bonanyan.github.io/bn/projectlist/</loc>
+  </url>
+  
+  <url>
     <loc>http://bonanyan.github.io/bn/research/</loc>
   </url>
   
@@ -28,6 +32,10 @@
   
   <url>
     <loc>http://bonanyan.github.io/bn/teaching/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bonanyan.github.io/bn/youandyourresearch/</loc>
   </url>
   
 </urlset>

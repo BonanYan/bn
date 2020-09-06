@@ -17,7 +17,7 @@
       
       <guid>http://bonanyan.github.io/bn/about/</guid>
       <description>Contact Please contact me via email (bonan dot yan at outlook dot com)
-Notice This website is powered by Hugo with Hugo-Fresh theme.
+Disclaimer This website is powered by Hugo with Hugo-Fresh theme.
 Copyright © Bonan Yan 2020.</description>
     </item>
     
@@ -27,7 +27,11 @@ Copyright © Bonan Yan 2020.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://bonanyan.github.io/bn/people/</guid>
-      <description>Faculty PhD Students To be added</description>
+      <description>Faculty Bonan Yan
+Assistant Professor
+ Office: Email: bonanyan at outlook dot com Researchgate / Google Scholar / Linkdedin / ORCID / Curriculum Vitae  PhD Students To be added.
+Undergraduate Students To be added.
+Alumini To be added.</description>
     </item>
     
     <item>
@@ -40,12 +44,21 @@ Copyright © Bonan Yan 2020.</description>
     </item>
     
     <item>
+      <title>Projectlist</title>
+      <link>http://bonanyan.github.io/bn/projectlist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bonanyan.github.io/bn/projectlist/</guid>
+      <description>Research Projects to be added</description>
+    </item>
+    
+    <item>
       <title>Research</title>
       <link>http://bonanyan.github.io/bn/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://bonanyan.github.io/bn/research/</guid>
-      <description>Directions  a (PhD position open) b c  Research Funding Publications  A  </description>
+      <description>Directions  In-Memory Computing (Circuit/Microarchitecture)  Design memory macro with duality of memory and computing as well as novel computer-aided design (CAD) method to improve efficiency   Emerging Nonvolatile Memories (eNVM) (IC Design)  Macromodel and design efficient and high-performance Resistive Random Access Memory (RRAM) &amp;amp; Magnetic Random Access Memory (MRAM)   Brain-inspired Computing VLSI Design  Develop future hardware for and by machine learning and neuromorphic Computing    Research Funding Publications  A  </description>
     </item>
     
     <item>
@@ -54,7 +67,7 @@ Copyright © Bonan Yan 2020.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://bonanyan.github.io/bn/resources/</guid>
-      <description>PhD Stduents Progress  Research Taste  You and Your Research, by Prof. Richard Hamming   Communication  Presentation Writing   EDA Toolkit Tutorials  </description>
+      <description>&amp;gt;Group Training  How to Research Professionally  You and Your Research, by Prof. Richard W. Hamming   Communication  Presentation  How to give a clear talk, by Prof. Kayvon Fatahalian   Writing  How to write a paper, by Prof. Bonan Yan Recommended Tools for Research  Vector Graph Editor: Adobe Illustrator / Inkscape / Microsoft Powerpoint Chart Generator: Origin / Python (Matplotlib, Seaborn) / Matlab / Prism / Excel Timing Diagram Generator: WaveDrom UML Editor: Violet Video Editor: kdenlive Code Editor: VScode / Vim / Emacs Latex IDE: Overleaf / Texstudio / Texmaker       EDA Toolkit Tutorials  &amp;gt;Fun Videos  Chip demo 2: http://bit.</description>
     </item>
     
     <item>
@@ -63,7 +76,17 @@ Copyright © Bonan Yan 2020.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://bonanyan.github.io/bn/teaching/</guid>
-      <description>To be added </description>
+      <description>Courses To be added.</description>
+    </item>
+    
+    <item>
+      <title>You and Your Research</title>
+      <link>http://bonanyan.github.io/bn/youandyourresearch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bonanyan.github.io/bn/youandyourresearch/</guid>
+      <description>By Dr. Richard W. Hamming
+It&amp;rsquo;s a pleasure to be here. I doubt if I can live up to the Introduction. The title of my talk is, &amp;ldquo;You and Your Research.&amp;rdquo; It is not about managing research, it is about how you individually do your research. I could give a talk on the other subject - but it&amp;rsquo;s not, it&amp;rsquo;s about you. I&amp;rsquo;m not talking about ordinary run-of-the-mill research; I&amp;rsquo;m talking about great research.</description>
     </item>
     
   </channel>
